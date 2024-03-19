@@ -7,3 +7,5 @@ trying to commit directly to the master branch
 now i want to pull this without having to fetch and merge
 
 i was trying to create a branch fro github and work on it then pull it to my local git
+
+now i am learning to push from my local git to github
